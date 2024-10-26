@@ -18,7 +18,6 @@ backend/
 ├── package.json                   # Node.js dependencies
 ├── .env                           # Environment variables (e.g., blockchain keys, DB URI)
 ```
-
 ---
 
 #### **Backend Code: `app.js`**:
